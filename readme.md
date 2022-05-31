@@ -26,23 +26,3 @@ Demi kelancaran pengerjaan project UTS praktikum pemrograman web lanjut ini diha
 6. Jalankan `php artisan serve` untuk mengaktifkan internal web server Laravel.
 7. Buka web browser dan akses alamat `http://localhost:8000`.
 
-## Apa yang harus dikerjakan untuk UTS ini?
-
-Berikut ini adalah daftar tugas yang harus dikerjakan untuk UTS pemrograman web lanjut:
-
-1. Buat mekanisme penyimpanan inventaris barang. Pada saat data disubmit dari [formulir](http://localhost:8000/form) penambahan barang, data tersebut harus dimasukkan kedalam database.
-
-    ![Inventory Form](http://s10.postimg.org/3moqehxc9/inventory_form.png)
-
-2. Tampilkan setiap data inventaris barang yang ada di dalam database kedalam bentuk tabel seperti yang dicontohkan pada halaman [daftar inventaris barang](http://localhost:8000).
-
-    ![Inventory List](http://s10.postimg.org/kr61h658p/inventory_list.png)
-
-3. Tampilkan detail setiap inventaris barang pada saat link barang di klik. silahkan gunakan mekanisme `route parameter` seperti yang ada di [dokumentasi](https://laravel.com/docs/5.2/controllers#basic-controllers) Laravel.
-
-## Mekanisme pengumpulan UTS
-
-Mekanisme pengumpulan dan penilaian akan dilakukan dari repository Github.com. Untuk melakukan pengumpulan UTS kali ini silahkan buka terminal, commit pekerjaan anda dengan menggunakan perintah `git add --all` kemudian `git commit -m "pengumpulan UTS"` dan `git push origin master`.
-# uts-web-master
-# adi-uts-web
-# adi-uts-web
